@@ -14,7 +14,7 @@ Este e-book de 6 páginas explora o impacto revolucionário das IAs Generativas 
 Utilizei o "ChatGPT" para me axuliar na minha pesquisa sobre IAs Generativas e seu impacto nos games, estruturar o conteúdo e refinar minhas ideias. O "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Word Office 365, por ser a ferramenta utilizada na Caixa.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+[[LINK PARA O E-BOOK|https://github.com/kelvincol/lab-natty-or-not/blob/main/exemplos/E-BOOK.md]]
 
 ## 💭 Reflexão (Opcional)
 Foi muito interessante trabalhar com esse projeto e verificar na prática como a IA ajuda muito com tarefas que poderiam ser bem mais exaustivas.
